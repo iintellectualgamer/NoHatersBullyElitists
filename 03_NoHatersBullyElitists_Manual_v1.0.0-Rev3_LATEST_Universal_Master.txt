@@ -1,0 +1,153 @@
+================================================================================
+OFFICIAL MASTER DOCUMENTATION & COMPLETE UNIVERSAL MANUAL (REVISION 3 - LATEST)
+NoHatersBullyElitists (Version 1.0.0 - Rev 3 Master Release)
+Enterprise 6-Tab Ethical Security, Anti-Bully, Anti-Scam & Blizzard Ticket Suite
+Universal Support: WoW Forever (16001), Classic Era (1.15.x), TBC/Wrath/Cata/MoP Classic & Retail (11.x-12.x)
+================================================================================
+Official Author   : iintellectualgamer
+Contact Email     : iintellectualgamer@gmail.com
+Official Twitch   : https://www.twitch.tv/iintellectualgamer
+Official YouTube  : https://www.youtube.com/iintellectualgamer
+Lead Characters   : Wissegmini-Kil'jaeden, Wwiisseegemi-Tichondrius & Wwiisegemini
+Policy Compliance : 100% Free & Open Source per Blizzard UI Add-On Development Policy
+================================================================================
+
+WHAT IS NEW IN REVISION 3 (LATEST MASTER RELEASE):
+1. Universal Multi-Client TOC Compatibility (WoW Forever 16001, Classic Era, TBC, Wrath,
+   Cataclysm, Mists of Pandaria Classic, and Retail 11.x/12.x) in a single package.
+2. Active Emerald-Green Button Highlighting (> ... <) across all 6 Top Navigation Tabs,
+   all 4 Tab 2 Dossier Category Buttons, and all 9 Tab 1 Channel/Violation Filter Buttons.
+3. 1-Click [Restore Default Text] Recovery Button (in the top-right header bar and Tabs 1,
+   4, 5, and 6) plus /nhbe restore and /reload instructions if text is ever accidentally cleared.
+4. Enhanced Upper-Right Minimap Shield Icon (45 degrees) with a 3-second pulsing golden
+   highlight ring when snapping to 45 degrees or testing 135 degrees on Tab 5.
+
+================================================================================
+1. COMPLETE SLASH COMMAND DIRECTORY
+--------------------------------------------------------------------------------
+Type any of these commands in your World of Warcraft chat box or inside a macro:
+
+* /nhbe or /nhbeclassic or /nohaters
+  Toggles the main 6-Tab Enterprise Security & Blizzard Ticket Suite window open or closed.
+
+* /nhbe restore (or /nohaters restore or /nhbe reset)
+  Immediately restores all default text across Tabs 1, 2, 4, and 6 back the way it was
+  (you can also type /reload in chat at any time to restore all original text).
+
+* /nhbe mini (or /nohaters mini)
+  Collapses the main window into the compact, draggable Floating Minimize Bar, or
+  expands it back to full size.
+
+* /nhbe urls (or /nohaters urls)
+  Opens Tab 3 directly to access all 8 Official Blizzard Complaint & Support URL buttons
+  (1 button per official support page) with the 1-Click Ctrl+C URL Copy Box.
+
+* /nhbe scope (or /nohaters scope)
+  Switches chat storage between Account-Wide Shared Logs (NoHatersBullyElitistsDB)
+  and Per-Character Isolated Logs (NoHatersBullyElitistsCharDB).
+
+* /nhbe soundtest (or /nohaters soundtest)
+  Plays an immediate Master-channel audio test chime so you can verify your sound levels.
+
+* /nhbe test (or /nhbeclassic test or /nohaters test)
+  Opens the main window and triggers Simulate Test Alert, generating realistic test
+  incidents (Trade Services Discord scam link, Party/Whisper harassment, Party GDKP/loan
+  theft, and a Protected Core Belief message) to test filtering and Ticket Dossier export.
+
+* /nhbe clear (or /nhbeclassic clear or /nohaters clear)
+  Wipes all session and saved chat logs for your currently active storage scope and
+  resets repeat-offender counters to zero.
+
+================================================================================
+2. ACTIVE BUTTON HIGHLIGHTING & TEXT RESTORATION SYSTEM
+--------------------------------------------------------------------------------
+A. ACTIVE EMERALD-GREEN BUTTON HIGHLIGHTING:
+   - All 6 Top Navigation Tabs (> 1. Live Feed <, > 2. Ticket Export <, > 3. Blizzard URLs <,
+     > 4. Blacklist & Scope <, > 5. Audio & Test <, > 6. Visual Manual <) light up with an
+     emerald-green background and gold/green border when selected.
+   - All 4 Tab 2 Dossier Category Buttons (> 1. Ongoing Harassment <, > 2. Item/Gold Theft Scam <,
+     > 3. Phishing/Fake GM Link <, > 4. Full Session Transcript <) highlight in green when active.
+   - All 9 Tab 1 Filter Buttons highlight in green with live message counts in parentheses.
+
+B. HOW TO RESTORE ACCIDENTALLY CLEARED OR DELETED TEXT:
+   - Because text boxes allow full highlighting for Ctrl+C copying, pressing Backspace or
+     Delete while text is highlighted can clear the box.
+   - Click [Restore Default Text] in the top-right title bar (next to Minimize [_] and [X]),
+     or type /nhbe restore (or /reload) in chat to immediately restore all default text.
+
+================================================================================
+3. MINIMIZE BAR & UPPER-RIGHT MINIMAP SHIELD ICON (45 DEGREES)
+--------------------------------------------------------------------------------
+A. FLOATING MINIMIZE BAR (NHBE_MinimizeBar):
+   - Click [Minimize [_]] in the top-right corner of the main window or type /nhbe mini.
+   - Collapses into a draggable 470x34 floating bar with live counters ("NHBE | All | Flagged")
+     and 1-click buttons for [Tickets], [Blizz URLs], and [Expand [+]].
+
+B. UPPER-RIGHT MINIMAP SHIELD ICON (NHBE_MinimapButton):
+   - Anchored by default at 45 degrees (Upper-Right rim of your circular Minimap).
+   - Left-Click       : Toggle the Main Security Suite Window open or closed.
+   - Shift+Left-Click : Toggle the Floating Minimize Bar on or off.
+   - Right-Click      : Open Tab 3 (8 Official Blizzard Complaint & Support URLs).
+   - Left-Drag        : Drag the Shield icon anywhere around the circular Minimap rim.
+   - Tab 5 Snap & Flash: Click [Snap Minimap Icon to Upper-Right (45 deg)] on Tab 5 to snap
+     the icon to 45 degrees and flash a pulsing golden ring around it for 3 seconds, or click
+     [Test Move Icon: Upper-Left (135 deg)] to watch it jump across the Minimap rim.
+
+================================================================================
+4. ACCOUNT-WIDE VS. PER-CHARACTER CHAT SEPARATION (TAB 4 & BOTTOM BAR)
+--------------------------------------------------------------------------------
+* Account-Wide Mode (Default — Scope: Account):
+  Shares captured chat logs and repeat-offender counts across all characters on your
+  World of Warcraft account via NoHatersBullyElitistsDB.
+* Per-Character Mode (Scope: Character):
+  Isolates Tab 1 Live Feed and Tab 2 Ticket Dossiers strictly to your active character
+  via NoHatersBullyElitistsCharDB.
+* Non-Destructive Switching:
+  Messages are recorded to both databases simultaneously so switching scopes never loses logs.
+
+================================================================================
+5. MASTER-CHANNEL SOUND EFFECTS & AUDIO DIAGNOSTICS (TAB 5 & BOTTOM BAR)
+--------------------------------------------------------------------------------
+All violation alerts play on World of Warcraft's "Master" audio channel:
+* Phishing / Fake GM Link Alert : SoundKit 8959 (Raid Warning)
+* Item / Loot / Gold Theft Scam : SoundKit 8960 (Ready Check)
+* Ongoing Harassment / Bully    : SoundKit 12867 (Alarm Clock Warning 2)
+* UI Button Click / Copy Popup  : SoundKit 856 (MainMenu Checkbox)
+
+================================================================================
+6. COMPLETE DIRECTORY OF 8 OFFICIAL BLIZZARD COMPLAINT URL BUTTONS (TAB 3)
+--------------------------------------------------------------------------------
+Clicking any of the 8 buttons on Tab 3 opens the auto-highlighted 1-Click Ctrl+C URL Copy Box:
+1. Submit Blizzard Support Ticket (US Main Portal): https://us.battle.net/support/en/ticket/submit
+2. Official Report a Player / Abuse Policy Guide  : https://us.battle.net/support/en/article/99516
+3. Report Hacks, Bots & Exploits Webform          : https://us.blizzard.com/en-us/submit/hacks.html
+4. Blizzard Hacks & Cheating Investigation Email  : hacks@blizzard.com
+5. Scamming, Ninja Looting & Gold Theft Policy    : https://us.battle.net/support/en/article/2563
+6. Account Compromise & Phishing Recovery Portal  : https://us.battle.net/support/en/help/product/wow/181/187/solution
+7. Blizzard In-Game Code of Conduct (Article 42673): https://us.battle.net/support/en/article/42673
+8. Submit Blizzard Support Ticket (EU Portal)     : https://eu.battle.net/support/en/ticket/submit
+
+================================================================================
+7. ETHICAL, LEGAL & PROTECTED CORE BELIEF STANDARD
+--------------------------------------------------------------------------------
+LEGAL & POLICY CLASSIFICATION STATEMENT (EMBEDDED IN ALL TICKET EXPORTS):
+This dossier strictly filters and records actionable, continuous harassment, targeted
+verbal abuse, threats, malicious stalking, phishing links, and direct item/gold theft
+scams in violation of the Blizzard Entertainment In-Game Code of Conduct.
+
+ETHICAL NON-INFRINGEMENT OF OPINION & CORE PERSONAL/PROFESSIONAL BELIEFS:
+This report explicitly EXCLUDES and does NOT target players for expressing harmless
+personal opinions, gameplay preferences, constructive tactical feedback, or core
+personal, ethical, moral, philosophical, religious, or professional beliefs.
+
+================================================================================
+8. PERSISTENT BOTTOM ACTION BAR REFERENCE (ALL 7 BUTTONS)
+--------------------------------------------------------------------------------
+1. [Clear Session Logs]      : Clears logs for the active scope (/nhbe clear).
+2. [Sound Alerts: ON / OFF]  : Toggles Master-channel violation sound effects on or off.
+3. [Chat Warnings: ON / OFF] : Toggles local red/orange alert banners in your chat window.
+4. [Scope: Account / Char]   : Toggles between Account-Wide and Per-Character logs.
+5. [Simulate Test Alert]     : Generates sample violations to test Tab 1 & Tab 2 (/nhbe test).
+6. [Blizzard URLs]           : Jumps directly to Tab 3 (8 Official Blizzard Complaint URLs).
+7. [Ticket Export]           : Jumps directly to Tab 2 (1-Click Ticket Dossier Generator).
+================================================================================

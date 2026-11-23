@@ -1,0 +1,82 @@
+================================================================================
+OFFICIAL EXPANDED FEATURE DOCUMENTATION & REFERENCE MANUAL (REVISION 2 - EXPANDED)
+NoHatersBullyElitists (Version 1.0.0 - Rev 2)
+Enterprise 6-Tab Ethical Security, Anti-Bully, Anti-Scam & Blizzard Ticket Suite
+Supports: Retail (Mainline), Classic Era, Anniversary & Classic Progression
+================================================================================
+Official Author   : iintellectualgamer
+Contact Email     : iintellectualgamer@gmail.com
+Official Twitch   : https://www.twitch.tv/iintellectualgamer
+Official YouTube  : https://www.youtube.com/iintellectualgamer
+Lead Characters   : Wissegmini-Kil'jaeden & Wwiisseegemi-Tichondrius
+Policy Compliance : 100% Free & Open Source per Blizzard UI Add-On Development Policy
+================================================================================
+
+1. EXPANDED SLASH COMMAND DIRECTORY (REVISION 2)
+--------------------------------------------------------------------------------
+Type any of these commands in your World of Warcraft chat box or inside a macro:
+
+* /nhbe or /nhbeclassic or /nohaters
+  Toggles the main 6-Tab Enterprise Security & Blizzard Ticket Suite window open or closed.
+* /nhbe mini (or /nohaters mini)
+  Collapses the main window into the compact, draggable Floating Minimize Bar, or
+  expands it back to full size.
+* /nhbe urls (or /nohaters urls)
+  Opens Tab 3 directly to access all 8 Official Blizzard Complaint & Support URL buttons
+  (1 button per official support page) with the 1-Click Ctrl+C URL Copy Box.
+* /nhbe scope (or /nohaters scope)
+  Switches chat storage between Account-Wide Shared Logs (NoHatersBullyElitistsDB)
+  and Per-Character Isolated Logs (NoHatersBullyElitistsCharDB).
+* /nhbe soundtest (or /nohaters soundtest)
+  Plays an immediate Master-channel audio test chime so you can verify your sound levels.
+* /nhbe test (or /nhbeclassic test or /nohaters test)
+  Opens the main window and triggers Simulate Test Alert.
+* /nhbe clear (or /nhbeclassic clear or /nohaters clear)
+  Wipes all session and saved chat logs for your currently active storage scope.
+
+2. MINIMIZE BAR & UPPER-RIGHT MINIMAP BUTTON CONTROLS
+--------------------------------------------------------------------------------
+A. FLOATING MINIMIZE BAR (NHBE_MinimizeBar):
+   - Click the [Minimize [_]] button in the top-right corner of the main window (next to [X])
+     or type /nhbe mini.
+   - Collapses the suite into a sleek 470x34 floating bar displaying live counters:
+     "NHBE | All: X | Flagged: Y | Acct/Char"
+   - Includes 1-click buttons right on the bar: [Tickets], [Blizz URLs], and [Expand [+]].
+
+B. UPPER-RIGHT MINIMAP ICON (NHBE_MinimapButton):
+   - Anchored by default at 45 degrees (Upper-Right rim of the Minimap).
+   - Left-Click       : Toggle the Main Security Suite Window open or closed.
+   - Shift+Left-Click : Toggle the Floating Minimize Bar on or off.
+   - Right-Click      : Open Tab 3 (8 Official Blizzard Complaint & Support URLs).
+   - Left-Drag        : Smoothly reposition the icon anywhere along the Minimap rim.
+
+3. ACCOUNT-WIDE VS. PER-CHARACTER CHAT SEPARATION (TAB 4 & BOTTOM BAR)
+--------------------------------------------------------------------------------
+* Account-Wide Mode (Default — Scope: Account):
+  Uses SavedVariables (NoHatersBullyElitistsDB) so all characters across your World of
+  Warcraft account share a unified violation log and blacklist.
+* Per-Character Mode (Scope: Character):
+  Uses SavedVariablesPerCharacter (NoHatersBullyElitistsCharDB) so Tab 1 Live Feed and
+  Tab 2 Ticket Dossiers only display chat messages recorded on the active character.
+* Non-Destructive Switching:
+  Incoming messages are safely written to both databases simultaneously.
+
+4. MASTER-CHANNEL SOUND EFFECTS & AUDIO DIAGNOSTICS (TAB 5 & BOTTOM BAR)
+--------------------------------------------------------------------------------
+All violation alerts route through World of Warcraft's "Master" audio channel:
+* Phishing / Fake GM Link Alert : SoundKit 8959 (Raid Warning)
+* Item / Loot / Gold Theft Scam : SoundKit 8960 (Ready Check)
+* Ongoing Harassment / Bully    : SoundKit 12867 (Alarm Clock Warning 2)
+* UI Button Click / Copy Popup  : SoundKit 856 (MainMenu Checkbox)
+
+5. COMPLETE DIRECTORY OF 8 OFFICIAL BLIZZARD COMPLAINT URL BUTTONS (TAB 3)
+--------------------------------------------------------------------------------
+1. Submit Blizzard Support Ticket (US Main Portal): https://us.battle.net/support/en/ticket/submit
+2. Official Report a Player / Abuse Policy Guide  : https://us.battle.net/support/en/article/99516
+3. Report Hacks, Bots & Exploits Webform          : https://us.blizzard.com/en-us/submit/hacks.html
+4. Blizzard Hacks & Cheating Investigation Email  : hacks@blizzard.com
+5. Scamming, Ninja Looting & Gold Theft Policy    : https://us.battle.net/support/en/article/2563
+6. Account Compromise & Phishing Recovery Portal  : https://us.battle.net/support/en/help/product/wow/181/187/solution
+7. Blizzard In-Game Code of Conduct (Article 42673): https://us.battle.net/support/en/article/42673
+8. Submit Blizzard Support Ticket (EU Portal)     : https://eu.battle.net/support/en/ticket/submit
+================================================================================
