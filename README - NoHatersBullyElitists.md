@@ -1,3 +1,33 @@
+NoHatersBullyElitists Changelog
+
+Version 1.0.1 - Universal 10-Feature Master Release (2026-11-25)
+
+Version 1.0.1 upgrades NoHatersBullyElitists across Retail, WoW Forever, Classic Era, TBC, Wrath, Cataclysm, and Mists of Pandaria Classic with 10 new and upgraded features, full multi-provider WowUp CurseForge, Wago, and WoWInterface auto-sync metadata, and standardized MIT licensing.
+
+10 New and Upgraded Features in Version 1.0.1
+
+1. Universal Multi-Client TOC Compatibility and Multi-Provider Auto-Sync: All six TOC files now support WoW Forever (16001 and 16000), Classic Era (1.15.x), TBC, Wrath, Cataclysm, Mists of Pandaria Classic, and Retail (11.2.7 through 12.1.7) and include CurseForge Project ID 1806893, Wago ID 7KbqD461, and WoWInterface ID 27312 for automatic logo display and updates in WowUp with CurseForge, Wago, and WoWInterface.
+2. Active Emerald-Green Button Highlighting: Highlights active navigation tabs, Tab 2 Ticket Dossier category buttons, and Tab 1 Live Feed filter buttons with emerald-green borders and active bracket markers.
+3. One-Click Restore Default Text Recovery System: Adds Restore Default Text recovery buttons in the top-right header bar and Tabs 1, 4, 5, and 6 alongside the /nhbe restore and /nhbe reset slash commands so accidentally cleared text can be recovered instantly without reloading the UI.
+4. Enhanced Upper-Right Minimap Shield Icon at 45 Degrees: Adds a 3-second pulsing golden highlight ring and chat confirmation when snapping the Minimap Shield Icon to 45 degrees or testing 135 degrees on Tab 5.
+5. Repeat-Offender Escalation Tracker: Automatically tracks repeat violations per sender across sessions, tags repeat offenders with an ESCALATED badge at 3 or more flags in both the Live Feed and Ticket Dossier, adds an Escalated filter button on Tab 1, and adds the /nhbe escalated slash command.
+6. Trusted Player Whitelist and Auto-Trust Protection: Adds a manual Trusted Player Whitelist on Tab 4 with Add Trusted and Remove Trusted controls, Auto-Trust Guild and Auto-Trust Friends toggles, and /nhbe trust and /nhbe untrust commands to prevent false-positive flags from known allies.
+7. GM-Ready Ticket Header and Incident Summary: Automatically prepends a structured incident header to every Tab 2 Ticket Dossier showing reporter Name-Realm, active zone, local timestamp, storage scope, incident time window, total matched messages, unique senders, escalated repeat offenders, and pinned evidence count.
+8. Incident Pinning and Critical Evidence Bookmarking: Adds a Pin Latest Flag button on Tab 1, a Pinned filter button on Tab 1, a Pinned Evidence dossier mode on Tab 2, and /nhbe pin and /nhbe unpin commands to bookmark key evidence for Blizzard tickets.
+9. Protected Belief and Safe-Phrase Custom Allowlist: Expands ethical and belief protection on Tab 5 so players can add or remove custom safe phrases via the UI or /nhbe allow and /nhbe unallow commands to protect constructive gameplay opinions and personal, ethical, moral, philosophical, religious, or professional beliefs.
+10. Live Session Threat Statistics Bar and Command: Displays real-time counts for logged messages, Harassment, Scam, Theft, Escalated repeat offenders, Pinned evidence, and Trusted players directly on Tab 1, Tab 4, and via the /nhbe stats slash command.
+
+Packaging and Licensing Updates
+
+- Bundled standardized MIT License text with Copyright (c) 2026 iintellectualgamer and the NoHatersBullyElitists project authors.
+- Updated all six TOC files with CurseForge, Wago, and WoWInterface provider IDs for clean WowUp with CurseForge matching.
+- Synchronized README, Changelog, and Universal Master User Manual across CurseForge, GitHub, Wago, WoWInterface, and WowUp.
+
+Version 1.0.0 - Initial Public Release
+
+- Initial public release of the Enterprise 6-Tab Ethical Security, Anti-Harassment, Anti-Bully, Anti-Scam, and Blizzard Ticket Suite.
+- Included Live Threat and Chat Monitor, Ticket Dossier Generator, eight official Blizzard Complaint and Support URL buttons, Account-Wide vs. Per-Character storage separation, Master-channel audio alerts, and Simulate Test Alert.
+
 # NoHatersBullyElitists — Enterprise 6-Tab Ethical Security & Blizzard Ticket Suite (v1.0.0)
 
 **NoHatersBullyElitists** is a lightweight, Zero-Lag O(1) chat security suite, continuous harassment logger, phishing/scam detector, item/loot theft recorder, and **1-Click Blizzard Support Ticket Dossier Generator** for World of Warcraft (Retail & Classic).
@@ -187,7 +217,7 @@ Open **Assets** on the GitHub release page to choose a file.
   `sha256:8784a2ffb4ad473ab7f64aef7553464a907e5cda523d35409fa3112da1dc43fe`
 - **NoHatersBullyElitists.v1.0.0.Official.User.Manual.Rev.3.Universal.Master.pdf** — 265 KB  
   `sha256:c7f0e8c10c41acb96de16ab82c985501d4764dadb869c10447be1c5dec74e257`
-- **NoHatersBullyElitists v2.0.0 Operational Manual & Movie Script.pdf** — 3368 KB  
+- **NoHatersBullyElitists v2.0.0 Operational Manual & Movie Script.pdf** — 368 KB  
   `sha256:ca043deb96842fc8066a78da0b23d6a3a12b422dd6e3a40cfe70aac26ba52e40`
 - **NoHatersBullyElitists_Classic.Official.Manual.pdf** — 788 KB  
   `sha256:65eaec8150320f699d8d6e5f4ab92073f0c30517a7ad4eeb151f7254ba64376f`
